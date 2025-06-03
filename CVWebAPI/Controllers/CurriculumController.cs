@@ -72,7 +72,8 @@ namespace CVWebAPI.Controllers
                 },
                 Project = new List<Proyecto>
                 {
-                    new Proyecto {Titulo= "CV Virtual", Imagen= "images/CVweb.png", Descripcion= "Es una pagina web construida desde FrontEnd donde se muestra en tiempo real todo lo relacionado a mis habilidades y formacion academica. Para hacer esta página se usaron las siguientes tecnologías: HTML, CSS, JavaScrip", Link= "https://github.com/VeroMV-24/CVVirtual"}
+                    new Proyecto {Titulo= "CV Virtual", Imagen= "images/CVweb.png", Descripcion= "Es una pagina web construida desde FrontEnd donde se muestra en tiempo real todo lo relacionado a mis habilidades y formacion academica. Para hacer esta página se usaron las siguientes tecnologías: HTML, CSS, JavaScrip", Link= "https://github.com/VeroMV-24/CVVirtual"},
+                    new Proyecto {Titulo= "CV Virtual Web API", Imagen= "images/CVwebAPI.png", Descripcion= "Es una Web API para alimentar la pagina web CV Virtual, para hacer esta web api se usaron las siguientes tecnologías: C#, Swagger y Docker", Link= "https://github.com/VeroMV-24/CVWebAPI"}
                 }
             };
             return Ok(curriculum);
