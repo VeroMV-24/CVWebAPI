@@ -1,0 +1,6 @@
+@CVWebAPI_HostAddress = http://localhost:5127
+
+GET {{CVWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
