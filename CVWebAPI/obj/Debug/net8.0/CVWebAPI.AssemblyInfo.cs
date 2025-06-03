@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CVWebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4ffcbee8126787522a5501de5a340686c16b4cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("CVWebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CVWebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
