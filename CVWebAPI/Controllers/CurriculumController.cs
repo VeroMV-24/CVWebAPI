@@ -63,6 +63,7 @@ namespace CVWebAPI.Controllers
                 },
                 Work = new List<Trabajo>
                 {
+                    new Trabajo {Titulo= "Desarrollador Junior - Freelancer", Institucion= "Heladísimo", Fecha= "Noviembre 2024 - Presente"},
                     new Trabajo {Titulo= "Ingeniero de datos", Institucion= "SuKarne", Fecha= "Octubre 2021 - Septiembre 2024"},
                     new Trabajo {Titulo= "Desarrollador Junior", Institucion= "Heladísimo", Fecha= "Septiembre 2020 - Octubre 2021"},
                 },
@@ -72,8 +73,8 @@ namespace CVWebAPI.Controllers
                 },
                 Project = new List<Proyecto>
                 {
-                    new Proyecto {Titulo= "CV Virtual", Imagen= "images/CVweb.png", Descripcion= "Es una pagina web construida desde FrontEnd donde se muestra en tiempo real todo lo relacionado a mis habilidades y formacion academica. Para hacer esta página se usaron las siguientes tecnologías: HTML, CSS, JavaScrip", Link= "https://github.com/VeroMV-24/CVVirtual"},
-                    new Proyecto {Titulo= "CV Virtual Web API", Imagen= "images/CVwebAPI.png", Descripcion= "Es una Web API para alimentar la pagina web CV Virtual, para hacer esta web api se usaron las siguientes tecnologías: C#, Swagger y Docker", Link= "https://github.com/VeroMV-24/CVWebAPI"}
+                    new Proyecto {Titulo= "CV Virtual - FrontEnd", Imagen= "images/CVweb.png", Descripcion= "Es una pagina web construida desde FrontEnd donde se muestra en tiempo real todo lo relacionado a mis habilidades y formacion academica. Para hacer esta página se usaron las siguientes tecnologías: HTML, CSS, JavaScrip", Link= "https://github.com/VeroMV-24/CVVirtual"},
+                    new Proyecto {Titulo= "CV Virtual Web API - BackEnd", Imagen= "images/CVwebAPI.png", Descripcion= "Es una Web API para alimentar la pagina web CV Virtual, para hacer esta web api se usaron las siguientes tecnologías: C#, Swagger y Docker", Link= "https://github.com/VeroMV-24/CVWebAPI"}
                 }
             };
             return Ok(curriculum);

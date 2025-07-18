@@ -535,23 +535,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jemen\\.nuget\\packages\\": {},
+    "C:\\Users\\veromv\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jemen\\Documents\\VeronicaM\\CVWebAPI\\CVWebAPI\\CVWebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\veromv\\Documents\\Proyectos\\Curriculum\\CVWebAPI\\CVWebAPI\\CVWebAPI.csproj",
       "projectName": "CVWebAPI",
-      "projectPath": "C:\\Users\\jemen\\Documents\\VeronicaM\\CVWebAPI\\CVWebAPI\\CVWebAPI.csproj",
-      "packagesPath": "C:\\Users\\jemen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jemen\\Documents\\VeronicaM\\CVWebAPI\\CVWebAPI\\obj\\",
+      "projectPath": "C:\\Users\\veromv\\Documents\\Proyectos\\Curriculum\\CVWebAPI\\CVWebAPI\\CVWebAPI.csproj",
+      "packagesPath": "C:\\Users\\veromv\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\veromv\\Documents\\Proyectos\\Curriculum\\CVWebAPI\\CVWebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\jemen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\veromv\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -612,7 +612,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
